@@ -1,4 +1,4 @@
-# Open-Reading-Frame-Finder
+# FindORFs
 Uses imported sequenceAnalysis module to iterate FASTA headers and their complimentary sequences from FASTA file read from directory, finding open reading frames (ORFs) in the sequence.
 
 input: fastA file
